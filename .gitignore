@@ -9,3 +9,5 @@ Makefile.in
 missing
 .sass-cache
 .sass-cache/
+.github
+.idea
